@@ -59,10 +59,9 @@ This update:
 
 ## Piña, The Creator
 
-Joshua Piña
-~ A Theoretical Master of None ~
+Joshua Piña (A Theoretical Master of None)  
 Data Science - Senior, Georgia State University  
 Background in Python, Applied Probability & Statistics, Data Analytics, Big Data Programming, DIP, and Machine Learning. 
-Experienced Program Manager in government contracting and former U.S. Army Combat Medic.
+Experienced Program Manager in Government Contracting and former U.S. Army Combat Medic.
 
 [Github](https://www.github.com/joshuadpina) | [LinkedIn](https://www.linkedin.com/ln/joshuapina) | [Kaggle](https://www.kaggle.com/joshuapina)
