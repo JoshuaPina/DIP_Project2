@@ -37,6 +37,8 @@ To help reduce the time spent, I created a script (and then used some AI assista
 ### July 19, 2025
 
 This update:
+- A second .py script has been added to verify the output data matches what we expect before initiating my training models.
+- A .py version of the .ipynb has been added. 
 - Adds viz to show code improvement.
 - Adds viz to show output.
 - AI was used to find these edge cases and pain-points that I did not originally consider:
